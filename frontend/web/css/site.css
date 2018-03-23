@@ -118,3 +118,29 @@ a.desc:after {
 .nav > li > form > button.logout:focus {
     outline: none;
 }
+
+.site-index {
+    padding-top: 7em;
+    padding-bottom: 3em;
+}
+
+.site-sidebar {
+    margin-top: 2em;
+}
+
+.site-notification {
+    padding-top: 2em;
+}
+
+.grid-view .summary {
+    margin-bottom: 1em;
+}
+
+.homer-doh {
+    padding-top: 2em;
+}
+
+#refresh-btn .glyphicon {
+    font-size: 0.8em;
+    width: 1.3em;
+}
