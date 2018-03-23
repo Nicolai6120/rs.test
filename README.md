@@ -5,3 +5,8 @@
     <h1 align="center">Yii 2 Advanced Project Template</h1>
     <br>
 </p>
+
+<p>1. git clone https://github.com/Nicolai6120/rs.test.git .</p>
+<p>2. php init</p>
+<p>3. composer install</p>
+<p>4. correct database dsn in /common/config/main-local.php (any existing database)</p>
